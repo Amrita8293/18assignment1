@@ -1,0 +1,1 @@
+This is for the output that include the result of the activity of the appliction.
